@@ -10,5 +10,9 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 
 <br>
 
-_a monolithic basket of tiny tools that tackle (im)practical problems with an all-class palette of languages!_ ₊˚✩
-- [ ] Valve Project Creator (VPC) makescript generator clone **(Gleam, 12/25)**
+**_assorted tiny, experimental tools that tackle (im)practical problems with an all-class palette of languages... may spin off into their own full-blown projects someday!_** ₊˚✩
+- `ⓥⓟⓒⓟⓟ` ... `Valve Project Creator (VPC) makescript generator clone (Perl, 12/25)`
+- `ⓠⓤⓔⓤⓔⓚⓞ` ... `LeSun 11/12/16x LED matrix USB-HID/Bluetooth tool (Ruby, 12/25)`
+- `ⓑⓔⓡⓨⓛ` ... `Schucannons forgivable & scalable server/client rewrite (Gleam, 12/25)`
+- `ⓓⓘⓢⓚⓞ` ... `subtle OSX "now playing" widget for Music Player Daemon (MPD) (Swift, 12/25)`
+- `ⓢⓞⓛⓘⓛⓞⓠⓤⓨ` ... `no-libs graphics experiment (Common Lisp, 12/25)`
