@@ -15,4 +15,4 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 - `ⓠⓤⓔⓤⓔⓚⓞ` ... `LeSun 11/12/16x LED matrix USB-HID/Bluetooth tool (Ruby, 12/25)`
 - `ⓑⓔⓡⓨⓛ` ... `Schucannons forgivable & scalable server/client rewrite (Gleam, 12/25)`
 - `ⓓⓘⓢⓚⓞ` ... `subtle OSX "now playing" widget for Music Player Daemon (MPD) (Swift, 12/25)`
-- `ⓢⓞⓛⓘⓛⓞⓠⓤⓨ` ... `no-libs graphics experiment (Common Lisp, 12/25)`
+- `ⓚⓐⓡⓣⓞⓢⓗⓚⓐ` ... `no-libs 'lispy' VN/graphics experiment (Common Lisp, 12/25)`
