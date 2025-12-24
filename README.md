@@ -10,10 +10,11 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 
 <br>
 
-**_assorted tiny, experimental tools that tackle (im)practical problems with an all-class palette of languages... may spin off into their own full-blown projects someday!_** ₊˚✩
+**_assorted tiny, experimental tools that tackle (im)practical bitstream manipulation (i.e. literally anything digital) problems with an all-class palette of languages... may spin off into their own full-blown projects someday!_** ₊˚✩
 - `ⓥⓟⓒⓟⓟ` ... `Valve Project Creator (VPC) makescript generator clone (Perl, 12/25)`
 - `ⓠⓤⓔⓤⓔⓚⓞ` ... `LeSun 11/12/16x LED matrix USB-HID/Bluetooth tool (Ruby, 12/25)`
-- `ⓑⓔⓡⓨⓛ` ... `Schucannons forgivable & scalable server/client rewrite (Gleam, 12/25)`
-- `ⓓⓘⓢⓚⓞ` ... `subtle OSX "now playing" widget for Music Player Daemon (MPD) (Swift, 12/25)`
-- `ⓚⓐⓡⓣⓞⓢⓗⓚⓐ` ... `no-libs 'lispy' VN/graphics experiment (Common Lisp, 12/25)`
-- `ⓚⓐⓣⓐⓝ` ... `KTANE CS:S microcontroller lite remake (C++, 12/25)`
+- `ⓑⓔⓡⓨⓛ` ... `Schucannons forgivable & scalable server/client rewrite (Gleam, 1/26)`
+- `ⓓⓘⓢⓚⓞ` ... `subtle OSX "now playing" widget for Music Player Daemon (MPD) (Swift, 1/26)`
+- `ⓚⓐⓡⓣⓞⓢⓗⓚⓐ` ... `no-libs 'lispy' VN/graphics experiment (Common Lisp, 1/26)`
+- `ⓚⓐⓣⓐⓝ` ... `KTANE CS:S microcontroller lite remake (C++, 1/26)`
+- `ⓣⓞⓢⓨⓐ` ... `VGM looper/extender/refresher (Zig, 1/26)`
