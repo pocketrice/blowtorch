@@ -18,3 +18,4 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 - `ⓚⓐⓡⓣⓞⓢⓗⓚⓐ` ... `no-libs 'lispy' VN/graphics experiment (Common Lisp, 1/26)`
 - `ⓚⓐⓣⓐⓝ` ... `KTANE CS:S microcontroller lite remake (C++, 1/26)`
 - `ⓣⓞⓢⓨⓐ` ... `VGM looper/extender/refresher (Zig, 1/26)`
+- `ⓟⓐⓡⓕⓐⓘⓣ` ... `"simple as a clam" tactile/tailor-ish CMF P2 camera (Kotlin, 2/26)`
