@@ -20,7 +20,7 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 - `ⓚⓐⓣⓐⓝ` ... `KTANE CS:S microcontroller lite remake` ... **C++**
 - `ⓐⓢⓚⓐ` ... `VGM looper/extender/refresher` ... **Haskell**
 - `ⓟⓐⓡⓕⓐⓘⓣ` ... `"simple as a clam" tactile/tailor-ish CMF P2 camera` ... **Kotlin**
-- `ⓛⓞⓣⓤⓢ` ... `scrappy paper scraps for an imperfect person` ... _?_
+- `ⓛⓞⓣⓤⓢ` ... `scrappy paper scraps for an imperfect person` ... **Rust**
 - `ⓓⓞⓛⓟⓤⓧⓝ` ... `Wii/GCN port of uxn + Varvara` ... **C/Uxntal**
 - `ⓗⓔⓝⓒⓔ` ... `personalised Forth interpreter` ... **Forth**
 - `ⓢⓐⓒⓗⓔⓣ` ... `tumblr-adjacent 2.5D eso/multimedia scrapbook` ... **C/Zig**
