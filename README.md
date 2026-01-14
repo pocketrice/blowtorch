@@ -14,7 +14,7 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 
 - `ⓥⓟⓒⓟⓟ` ... `Valve Project Creator (VPC) makescript generator clone` ... **Perl**
 - `ⓠⓤⓔⓤⓔⓚⓞ` ... `LeSun 11/12/16x LED matrix USB-HID/Bluetooth tool` ... **Ruby**
-- `ⓑⓔⓡⓨⓛ` ... `Schucannons forgivable & scalable server/client rewrite` ... **Gleam**
+- `ⓑⓔⓡⓨⓛ` ... `Schucannons forgivable & scalable server/client rewrite` ... *Bloom?*
 - `ⓓⓘⓢⓚⓞ` ... `subtle OSX "now playing" widget for Music Player Daemon (MPD)` ... **Swift**
 - `ⓚⓐⓡⓣⓞⓢⓗⓚⓐ` ... `no-libs 'lispy' VN/graphics experiment` ... **Common Lisp**
 - `ⓚⓐⓣⓐⓝ` ... `KTANE CS:S microcontroller lite remake` ... **C++**
@@ -24,7 +24,7 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 - `ⓓⓞⓛⓟⓤⓧⓝ` ... `Wii/GCN port of uxn + Varvara` ... **C/Uxntal**
 - `ⓗⓔⓝⓒⓔ` ... `personalised Forth interpreter` ... **Forth**
 - `ⓢⓐⓒⓗⓔⓣ` ... `tumblr-adjacent 2.5D eso/multimedia scrapbook` ... **C/Zig**
-- `ⓣⓔⓐⓛ` ... `bespoke DIY dial-up @ home` ... _?_
-
-
-
+- `ⓣⓔⓐⓛ` ... `bespoke DIY dial-up @ home` ... *Verilog + ?*
+- `ⓗⓘⓟⓗⓞⓟ` ... `collaborative live doodleboard (and a rabbit)` ... *Gleam?*
+- `ⓔⓜⓑⓔⓩⓔⓛ` ... `overoptimised and overt 7-seg timer` ... **ARM64 ASM**
+- `ⓚⓐⓨⓑⓤⓓ` ... `freeform keyboard-like for all the langs` ... *Red/REBOL?*
