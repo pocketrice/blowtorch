@@ -24,7 +24,9 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 - `ⓓⓞⓛⓟⓤⓧⓝ` ... `Wii/GCN port of uxn + Varvara` ... **C/Uxntal**
 - `ⓗⓔⓝⓒⓔ` ... `personalised Forth interpreter` ... **Forth**
 - `ⓢⓐⓒⓗⓔⓣ` ... `tumblr-adjacent 2.5D eso/multimedia scrapbook` ... **C/Zig**
-- `ⓣⓔⓐⓛ` ... `bespoke DIY dial-up @ home` ... *Verilog + ?*
+- `ⓣⓔⓐⓛ` ... `bespoke DIY dial-up @ home` ... *Verilog/TCL?*
 - `ⓗⓘⓟⓗⓞⓟ` ... `collaborative live doodleboard (and a rabbit)` ... *Gleam?*
 - `ⓔⓜⓑⓔⓩⓔⓛ` ... `overoptimised and overt 7-seg timer` ... **ARM64 ASM**
-- `ⓚⓐⓨⓑⓤⓓ` ... `freeform keyboard-like for all the langs` ... *Red/REBOL?*
+- `ⓚⓔⓔⓑⓔⓔ` ... `freeform keyboard-like for all the langs` ... *Red/REBOL?*
+- `ⓟⓡⓘⓝⓝⓨ` ... `personally stylised static site generator + extra goodies` ... *Jank?*
+- `ⓛⓤⓥⓛⓐⓨ` ... `"polite intersections" std/decons mgr/sim playground/interface` ... **Ada/SPARK**
