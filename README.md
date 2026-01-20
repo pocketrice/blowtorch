@@ -27,6 +27,8 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 - `ⓣⓔⓐⓛ` ... `bespoke DIY dial-up @ home` ... *Verilog/TCL?*
 - `ⓗⓘⓟⓗⓞⓟ` ... `collaborative live doodleboard (and a rabbit)` ... *Gleam?*
 - `ⓔⓜⓑⓔⓩⓔⓛ` ... `overoptimised and overt 7-seg timer` ... **ARM64 ASM**
-- `ⓚⓔⓔⓑⓔⓔ` ... `freeform keyboard-like for all the langs` ... *Red/REBOL?*
-- `ⓟⓡⓘⓝⓝⓨ` ... `personally stylised static site generator + extra goodies` ... *Jank?*
-- `ⓛⓤⓥⓛⓐⓨ` ... `"polite intersections" std/decons mgr/sim playground/interface` ... **Ada/SPARK**
+- `ⓢⓒⓡⓤⓜⓟⓨ` ... `handpicked collection of stellar VG movement` ... **Red/REBOL**
+- `ⓟⓡⓘⓝⓝⓨ` ... `personally stylised (static|dynamic) site generator + extra goodies` ... *Jank?*
+- `ⓛⓤⓥⓐⓨ` ... `"polite intersections" std/decons mgr/sim playground/interface` ... **Ada/SPARK**
+- `ⓟⓘⓝⓣⓞ` ... `crowd-sourced color theory` ... *Dezyne/?*
+- `ⓒⓗⓔⓔⓟ` ... `declarative, dynamic, Deleuzian BGM/foley backbone` ... **Prolog/Wren**
