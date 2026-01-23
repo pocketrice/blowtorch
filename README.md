@@ -32,3 +32,4 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 - `ⓛⓤⓥⓐⓨ` ... `"polite intersections" std/decons mgr/sim playground/interface` ... **Ada/SPARK**
 - `ⓟⓘⓝⓣⓞ` ... `crowd-sourced color theory` ... *Dezyne/?*
 - `ⓒⓗⓔⓔⓟ` ... `declarative, dynamic, Deleuzian BGM/foley backbone` ... **Prolog/Wren**
+- `ⓐⓛⓔⓣⓗⓔⓘⓐ` ... `spyglass of limitless unconcealment` ... **D**
