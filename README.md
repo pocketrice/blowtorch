@@ -27,3 +27,4 @@ _for when you have the abstruse desire to make fichier brûlée...!_
 > - `ⓒⓗⓔⓔⓟ` ... `declarative, dynamic, Deleuzian BGM/foley backbone` ... **Prolog/Wren**
 > - `ⓐⓛⓔⓣⓗⓔⓘⓐ` ... `spyglass of limitless unconcealment` ... **D**
 > - `ⓟⓤⓔⓛⓛⓐ` ... `sparkling desk-sized optical/acoustic FX system!` ... **Meridie**
+> - `ⓜⓐⓘⓜⓞⓡⓘⓐ` ... `multimedia, multimemory, multimix presentation tool` ... *OCaml/Svelte/?*
